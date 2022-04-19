@@ -1,5 +1,5 @@
 {
-    "name": "specialistpharmacyservice/logging-php",
+    "name": "makeandship/logging-php",
     "description": "PHP log support",
     "keywords": [
         "logging",
@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "specialistpharmacyservice\\": "src/"
+            "makeandship\\": "src/"
         }
     },
     "extra": {},
