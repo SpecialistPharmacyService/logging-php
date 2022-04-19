@@ -1,6 +1,6 @@
 <?php
 
-namespace makeandship\logging;
+namespace specialistpharmacyservice\logging;
 
 const LOG_LEVELS      = ["debug", "info", "error"];
 const LOG_LEVEL_DEBUG = "debug";
